@@ -7,9 +7,9 @@ Install NodeJS on your PC from [NodeJS](https://nodejs.org/en/), open a terminal
 
 ## How Commands Works
 Commands: You have to run `node app [command]`
-- node app created: Creates a task to do.
-- node app update: Updates the complete status of a task.
-- node app delete: Delete a task.
+1. `node app create`: Creates a task to do.
+2. `node app update`: Updates the complete status of a task.
+3. `node app delete`: Delete a task.
 
 ## How To Run Commands
 - For create tasks run `node app create -d "My task"`.

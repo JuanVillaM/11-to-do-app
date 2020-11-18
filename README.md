@@ -1,5 +1,5 @@
 # Information
-:pencil: :pencil: :pencil: *Good morning everyone, with great emotion I can say that here is my first command application with NodeJS, where you can do multiplication tables with NodeJS commands, I hope you enjoy* :pencil: :pencil: :pencil:
+:pencil: :pencil: :pencil: *Good morning everyone, with great emotion I can say that here is my first command application with NodeJS, where you can create, update, and delete your "To-do-tasks" with NodeJS commands, I hope you enjoy* :pencil: :pencil: :pencil:
 > Juan Villa
 
 ## Development Server
